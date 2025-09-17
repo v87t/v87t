@@ -51,21 +51,21 @@ Known in the community as **kernel**, I focus on **server configuration optimiza
 - White-label & hosted solutions for maximum flexibility  
 - Emphasis on **data security** and **system reliability**
 
-#### React-AC  
+#### [React-AC](https://react-ac.com)  
 🛡️ **Advanced Anti-Cheat for FiveM**  
 - Full dashboard & configuration system  
 - Multiple detection modules  
 - High-performance and server-friendly
 
-#### [NitroMC.pl](https://nitromc.pl)  
-🎮 **Minecraft Storefront**  
-- Built a complete e-commerce page + custom API wrapper  
-- Project completed in **1 day** ⚡
-
 #### [Kosmici.club](https://kosmici.club/)  
 🚀 **FiveM Shop Website & API**  
 - Built in **Next.js** with custom backend API  
 - Optimized for performance and low-latency data delivery  
+
+#### [NitroMC.pl](https://nitromc.pl)  
+🎮 **Minecraft Storefront**  
+- Built a complete e-commerce page + custom API wrapper  
+- Project completed in **1 day** ⚡
 
 ---
 
